@@ -1,0 +1,203 @@
+.nav li,h4{
+    display:inline;
+    padding: 10px;
+    list-style-type: none;
+   margin:20px;
+    color: white;
+    
+}
+h4{
+    margin-left: 90px;
+}
+h1{
+    margin-top:90px;
+    margin-left: 100px;
+}
+.nav ul{
+   margin-left: 900px;
+   margin-top: -50px;
+}
+body{
+    background-image: url("portback.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.nav li:hover{
+    color:blue;
+    border-bottom: 1px solid white;
+    
+    transition: 3s;
+}
+p{
+    margin-left: 20px;
+    margin-left: 140px;
+}
+h1,p{
+    color:white;
+}
+.line1{
+    filter: brightness(1000%);
+    border-bottom: 2px solid orangered;
+    width: 9%;
+    margin-top: 60px;
+
+}
+p{
+    font-weight: 50;
+    margin-top: -60px;
+}
+.sd{
+    margin-top: 0px;
+}
+.btn{
+    margin-left: 90px;
+}
+button{
+    color: white;
+    padding: 10px 20px;
+    background-color: transparent;
+    border-color: orangered;
+    
+
+}
+button:hover{
+    background-color: orangered;
+}
+.skill{
+    width:100%;
+    height:50px;
+    background-color: dimgray;
+  
+    
+
+
+}
+.skill ul{
+    list-style-type: none;
+    color: grey;
+    font-size: 30px;
+}
+.skill li{
+   justify-content:center;
+    display:inline;
+    padding:6px 30px;
+    margin-left: 80px;
+    color: darkgrey;
+   
+
+}
+.profile{
+    margin-top: -350px;
+    margin-left:700px;
+    width:300px;
+    height:300px;
+   border:25px solid orangered;
+   box-shadow: inset 10px 20px 30px orangered;
+   
+
+}
+.profile img{
+    width:400px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-top: -125px;
+     
+}
+.profile img:hover{
+    width:430px;
+    height:430px;
+    transition-duration: 5s;
+    padding: 20px;
+}
+.line{
+    color: orangered;
+    height:100px;
+    border-left:3px solid;
+    position: absolute;
+    left:110px;
+    top:515px;
+}
+.line2{
+      color: orangered;
+    height:100px;
+    border-left:3px solid;
+    position: absolute;
+    left:110px;
+    top:630px;
+}
+.dot1{
+    width:10px;
+    height:10px;
+    background-color: orangered;
+    border-radius: 30px;
+    margin-top: -253px;
+    margin-left: 200px;
+    position:absolute;
+}
+.dot2{
+      width:10px;
+    height:10px;
+    background-color: orangered;
+    border-radius: 30px;
+    margin-left: 106px;
+    margin-top: 157px;
+    position: absolute;
+}
+.icon{
+    width:350px;
+    height:200px;
+    
+    margin-left: 120px;
+    margin-top:60px;
+     color: white;
+     padding: 20px;
+     
+}
+.icon1{
+    width:50px;
+    height:50px;
+    background-size: cover;
+    background-image: url("webicon.png");
+    position:absolute;
+   
+}
+.icon2{
+      width:50px;
+    height:50px;
+    background-size: cover;
+    background-image: url("appicon.png");
+    margin-top: 100px;
+    position:absolute;
+}
+.icon1:hover{
+    border-top-right-radius:10px;
+    
+}
+.icon2:hover{
+     border-top-right-radius:10px;
+}
+.icon p{
+    margin-top:-10px;
+    font-size: larger;
+    font-weight: bold;
+    position:absolute;
+}
+.about p{
+    width:900px;
+    height: 100px;
+    margin-left: 600px;
+    margin-top: 20px;
+    position: absolute;
+    font-size: 20px;
+    font-weight: lighter;
+    position:absolute;
+}
+.about h1{
+    text-align: center;
+    margin-top:-200px ;
+    margin-left: -150px;
+}
